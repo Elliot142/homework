@@ -25,12 +25,12 @@
 li{
 
 }
-ul{
+.mydiv ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	width: 300px;
-	background-color: chocolate;
+	background-color: #46ff33;
 	height: 100%;
 	position: fixed;
 	overflow: auto;
